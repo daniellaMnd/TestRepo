@@ -5,7 +5,7 @@
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
     "displayMode": "diff",
-    "useMendCheckNames": true
+    "useMendCheckNames": false
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
